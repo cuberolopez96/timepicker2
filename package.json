@@ -1,0 +1,19 @@
+{
+  "name": "jquery-timepicker-exmaple",
+  "version": "1.0.0",
+  "description": "ejemplo de timepicker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cuberolopez96@github.com/cuberolopez96/timepicker.git"
+  },
+  "author": "Juan Antonio Cubero Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuberolopez96/timepicker/issues"
+  },
+  "homepage": "https://github.com/cuberolopez96/timepicker#readme"
+}
